@@ -10,7 +10,7 @@ export default function Home() {
         <p className="text-xs mt-2 text-gray-400">CryptoGod</p>
         <Image src="/shareQrcode.jpeg" width={360} alt="" height={400} />
         <Link
-          href={`https://twitter.com/AKAKAY04`}
+          href={`https://twitter.com/CryptoGodJeus`}
           target="_blank"
           className="flex items-center justify-center"
         >
